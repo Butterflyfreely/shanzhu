@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+int main()
+{  
+    int input, num, count1 = 0;    
+    
+    while (cin >> input)
+    {
+      while(input > 2)
+      {
+        num = input / 3;
+        input = input % 3;
+        count1 += num;
+        input = num + input;
+      }
+      if (input == 2)count1++;
+      cout << count1; 
+      input=0;
+      num=0;
+      count1=0;
+    }
+    //system("pause");
+    //return 0;
+}

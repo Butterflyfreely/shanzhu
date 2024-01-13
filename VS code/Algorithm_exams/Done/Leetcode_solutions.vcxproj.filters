@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="000TemplateFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100xiangtongerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pinghengerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106zhongxuhouxubianligouzaoerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zuidaerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="216zuhezonghe3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40.zuhezonghe2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131分割回文字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="90ziji2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="491dizengzixulie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="332chongxinanpaixinhgcheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="376baidongxulie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1007.Kcifanhouzuidahuadehe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="406genjushengaochongjianduilie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="763huafenzimuqujian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="738.dandiaodizengdeshuzi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63butonglujing-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="343zhengshuchaifen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125yanzhenghuiwenchuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="171Excelbiaoxuliehao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="168Excelliebiaomingcheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mianshitipandingzifushifouweiyi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="345fanzhuanzifuchuanzhongyuanyinzimu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108youxushuzuzhuanerchasousuoshu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

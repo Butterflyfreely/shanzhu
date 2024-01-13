@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="template_000.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\000TemplateFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\40.zuhezonghe2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\63butonglujing-ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\90ziji2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\100xiangtongerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\106zhongxuhouxubianligouzaoerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\108youxushuzuzhuanerchasousuoshu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\125yanzhenghuiwenchuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\131分割回文字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\168Excelliebiaomingcheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\171Excelbiaoxuliehao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\216zuhezonghe3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\332chongxinanpaixinhgcheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\343zhengshuchaifen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\345fanzhuanzifuchuanzhongyuanyinzimu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\376baidongxulie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\406genjushengaochongjianduilie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\491dizengzixulie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\738.dandiaodizengdeshuzi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\763huafenzimuqujian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\1007.Kcifanhouzuidahuadehe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\mianshitipandingzifushifouweiyi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\pinghengerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Leetcode_solutions\Leetcode_solutions\zuidaerchashu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88hebinglianggeyouxushuzu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="502erchasousuoshizhongdezhongshu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="00shu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="000Template_Bin_Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JD_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JD_test2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01beibeowenti.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01beibaowenti2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Leetcode_solutions\Leetcode_solutions\Leetcode_solutions.vcxproj">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="..\..\Leetcode_solutions\Leetcode_solutions\Leetcode_solutions.vcxproj.filters">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="..\..\Leetcode_solutions\Leetcode_solutions\Leetcode_solutions.vcxproj.user">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
